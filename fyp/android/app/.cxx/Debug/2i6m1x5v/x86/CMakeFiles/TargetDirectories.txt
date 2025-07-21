@@ -1,0 +1,2 @@
+D:/water_quality/fyp/android/app/.cxx/Debug/2i6m1x5v/x86/CMakeFiles/edit_cache.dir
+D:/water_quality/fyp/android/app/.cxx/Debug/2i6m1x5v/x86/CMakeFiles/rebuild_cache.dir
